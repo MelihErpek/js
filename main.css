@@ -1,0 +1,34 @@
+
+#title{
+    color: blueviolet;
+}
+.calculator{
+    background-color:rgb(41, 27, 41);
+    height: 250px;
+    width: 480px;
+}
+.result{
+    color: rgb(101, 134, 196);
+    margin-left:250px;
+    text-align: center;
+    font-size: 50px;
+}
+.main-body{
+    float: left;
+}
+.key{
+    color:rgb(101, 134, 196);
+    background-color:rgb(41, 27, 41);
+    float: left;
+    width: 120px;
+    height: 75px;
+    text-align: center;
+}
+.operator,.operator-plus,.operator-equals,.operator-divide,.operator-multiplication,.operator-subtraction{
+    color:red;
+    background-color:rgb(41, 27, 41);
+    float: left;
+    width: 120px;
+    height: 75px;
+    text-align: center;
+}
